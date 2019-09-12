@@ -1,0 +1,1 @@
+Tensor("input_14/GroundTruthInput:0", shape=(?, 102), dtype=float32)
