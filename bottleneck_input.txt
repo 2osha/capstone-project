@@ -1,1 +1,0 @@
-Tensor("input_8/BottleneckInputPlaceholder:0", shape=(?, 2048), dtype=float32)
